@@ -1,0 +1,30 @@
+[
+    {
+        "source": "forum",
+        "category": 0,
+        "type": 1,
+        "question": "Four new Scrum Teams have been created to build one product. A few of the developers on one of the Development Teams ask the Scrum Master how their Sprint work is going to remain aligned. What should the Scrum Master do?",
+        "answers": {
+            "id": "b"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "Collect the Sprint tasks from the teams at the end of their Sprint Planning and merge that into a consolidated plan for the entire Sprint."
+            },
+            {
+                "id": "b",
+                "label": "Teach them that it is their responsibility to work with the other teams to create an integrated Increment."
+            },
+            {
+                "id": "c",
+                "label": "Visit every team each day to inspect that their Sprint Backlogs are aligned."
+            },
+            {
+                "id": "d",
+                "label": "Teach the Product Owner to work with the lead developers on ordering Product Backlog in a way to avoid too much technical and development overlap during a Sprint."
+            }
+        ],
+        "feedback": "Where multiple teams are involved in creating an Increment the responsibility for integrating work products is commonly shared. The teams are expected to self-organize, and to ensure that an integrated and potentially releasable Increment is planned and delivered. The Scrum Master should coach them to do this as effectively as possible."
+    }
+]
