@@ -121,6 +121,7 @@ export default new Vuex.Store({
     actions: { /* asynchronous events */
     },
     getters: {
+        getMode: state => state.mode,
         getCards: state => {
             /* search is disabled in quiz mode */
             if (state.search !== '') {

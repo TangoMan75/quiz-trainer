@@ -20,7 +20,7 @@
         <!-- navbar center -->
         <div class="navbar-collapse collapse w-100">
             <form id="search" class="form-inline w-100 mx-auto" v-if="mode === 'edit' || mode === 'cheat'" @submit.prevent>
-                <input class="form-control w-100" type="search" placeholder="Search..." aria-label="Search" v-model="search">
+                <input class="form-control w-100" type="search" placeholder="Search..." aria-label="Search" @input="setSearch" :value="search">
             </form>
         </div><!-- end navbar center -->
         <!-- navbar right (margin-left: auto) -->
@@ -93,15 +93,18 @@
         computed: {
             ...mapState ([
                 'currentCard',
-                'mode'
+                //'mode'
             ]),
-            search: {
-                get () {
+            mode() {
+                return this.$store.getters.getMode
+            },
+            search() {
+                //get () {
                     return this.$store.state.search
-                },
+                /*},
                 set (value) {
                     this.$store.commit('updateSearch', value)
-                }
+                }*/
             }
         },
         methods: {
@@ -111,6 +114,10 @@
                 'setMode',
                 'shuffle'
             ]),
+            setSearch(event) {
+                //console.log(event.target.value)
+                this.$store.commit('updateSearch', event.target.value)
+            },
             showRefreshUI (e) {
                 /* Display a button inviting the user to refresh/reload the app due */
                 /* to an app update being available. */
