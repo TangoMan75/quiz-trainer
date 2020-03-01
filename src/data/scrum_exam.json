@@ -1,0 +1,2370 @@
+[
+    {
+        "source": "scrum exam",
+        "category": 0,
+        "type": 2,
+        "question": "You are the Scrum Master for four Scrum Teams working from the same Product Backlog. Several of the developers come to you complaining that work identified for the upcoming two Sprints will require full-time commitment from a technical specialist who is external to the teams. What are two key concerns for the Scrum Master to take into account in this situation?",
+        "answers": [
+            {
+                "id": "b"
+            },
+            {
+                "id": "d"
+            }
+        ],
+        "options": [
+            {
+                "id": "a",
+                "label": "The need to have enough work to keep all Development Team members busy."
+            },
+            {
+                "id": "b",
+                "label": "The desire to maintain a stable velocity."
+            },
+            {
+                "id": "c",
+                "label": "The benefit of Development Teams figuring out a solution for themselves."
+            },
+            {
+                "id": "d",
+                "label": "The ability of the Development Teams to produce integrated increments."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 10,
+        "type": 1,
+        "question": "The Sprint Review is mainly an inspect and adapt opportunity for which group?",
+        "answers": {
+            "id": "e"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "The Development Team and management."
+            },
+            {
+                "id": "b",
+                "label": "The Product Owner and stakeholders."
+            },
+            {
+                "id": "c",
+                "label": "The Development Team and stakeholders."
+            },
+            {
+                "id": "d",
+                "label": "The Product Owner and Development Team."
+            },
+            {
+                "id": "e",
+                "label": "The Scrum Team and stakeholders."
+            },
+            {
+                "id": "f",
+                "label": "The Product Owner and management."
+            }
+        ],
+        "feedback": "During the Sprint Review, the Scrum Team and stakeholders collaborate about what was done in the Sprint. Based on that and any changes to the Product Backlog during the Sprint, attendees collaborate on the next things that could be done to optimize value."
+    },
+    {
+        "source": "scrum exam",
+        "category": 10,
+        "type": 2,
+        "question": "One of the Scrum events is the Daily Scrum. What are two intended outcomes of the Daily Scrum?",
+        "answers": [
+            {
+                "id": "e"
+            },
+            {
+                "id": "b"
+            }
+        ],
+        "options": [
+            {
+                "id": "a",
+                "label": "New impediments for the Scrum Master to take care of."
+            },
+            {
+                "id": "b",
+                "label": "An update of completed tasks and of the remaining work so the Scrum Master can plan the next day."
+            },
+            {
+                "id": "c",
+                "label": "An updated Scrum board to make Sprint progress transparent for the stakeholders."
+            },
+            {
+                "id": "d",
+                "label": "A status report for the upper management indicating what each individual has done, will be doing, and what is impeding him/her."
+            },
+            {
+                "id": "e",
+                "label": "A shared understanding of the most important work to be undertaken next to acheive the best possible progress toward the Sprint goal."
+            }
+        ],
+        "feedback": "Daily Scrums improve communications, eliminate other meetings, identify impediments to development for removal, highlight and promote quick decision-making, and improve the Development Team’s level of knowledge. This is a key inspect and adapt meeting."
+    },
+    {
+        "source": "scrum exam",
+        "category": 7,
+        "type": 2,
+        "question": "What are two good ways for the Development Team to make non-functional requirements visible?",
+        "answers": [
+            {
+                "id": "a"
+            },
+            {
+                "id": "d"
+            }
+        ],
+        "options": [
+            {
+                "id": "a",
+                "label": "Add them to the Product Backlog and keep the Product Owner posted on the expected effort."
+            },
+            {
+                "id": "b",
+                "label": "Put them on a separate list on the Scrum board, available for all to see."
+            },
+            {
+                "id": "c",
+                "label": "Run the integration and regression tests before the end of the Sprint, and capture the open work for the Sprint Backlog of the next Sprint."
+            },
+            {
+                "id": "d",
+                "label": "Add them to the definition of \"Done\" so the work is taken care of every Sprint."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 10,
+        "type": 3,
+        "question": "Which three of the following are feedback loops in Scrum?",
+        "answers": [
+            {
+                "id": "c"
+            },
+            {
+                "id": "d"
+            },
+            {
+                "id": "b"
+            }
+        ],
+        "options": [
+            {
+                "id": "a",
+                "label": "Release Planning."
+            },
+            {
+                "id": "b",
+                "label": "Daily Scrum."
+            },
+            {
+                "id": "c",
+                "label": "Sprint Review."
+            },
+            {
+                "id": "d",
+                "label": "Sprint Retrospective."
+            },
+            {
+                "id": "e",
+                "label": "Refinement Meeting."
+            }
+        ],
+        "feedback": "Daily Scrums improve communications, eliminate other meetings, identify impediments to development for removal, highlight and promote quick decision-making, and improve the Development Team’s level of knowledge. This is a key inspect and adapt meeting. Sprint Review is an informal meeting, not a status meeting, and the presentation of the Increment is intended to elicit feedback and foster collaboration. The Sprint Retrospective is an opportunity for the Scrum Team to inspect itself and create a plan for improvements to be enacted during the next Sprint."
+    },
+    {
+        "source": "scrum exam",
+        "category": 10,
+        "type": 3,
+        "question": "Which three questions might be answered by Development Team members at the Daily Scrum?",
+        "answers": [
+            {
+                "id": "a"
+            },
+            {
+                "id": "d"
+            },
+            {
+                "id": "g"
+            }
+        ],
+        "options": [
+            {
+                "id": "a",
+                "label": "What did I do yesterday that helped the Development Team meet the Sprint Goal?"
+            },
+            {
+                "id": "b",
+                "label": "How is the Sprint proceeding?"
+            },
+            {
+                "id": "c",
+                "label": "Why were you late?"
+            },
+            {
+                "id": "d",
+                "label": "What will I do today to help the Development Team meet the Sprint Goal?"
+            },
+            {
+                "id": "e",
+                "label": "How many hours did I spend on the project yesterday?"
+            },
+            {
+                "id": "f",
+                "label": "Do I see any impediment that prevents me or the Development Team from meeting the Sprint Goal?"
+            },
+            {
+                "id": "g",
+                "label": "What will I be working on tomorrow?"
+            }
+        ],
+        "feedback": "What did I do yesterday that helped the Development Team meet the Sprint Goal? What will I do today to help the Development Team meet the Sprint Goal? What will I be working on tomorrow?"
+    },
+    {
+        "source": "scrum exam",
+        "category": 6,
+        "type": 1,
+        "question": "What is the accountability of the Product Owner during Sprint 0?",
+        "answers": {
+            "id": "a"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "Make sure enough Product Backlog items are refined to fill the first 3 Sprints."
+            },
+            {
+                "id": "b",
+                "label": "Determine the composition of the Development Teams so they have the capacity to deliver the completed forecast."
+            },
+            {
+                "id": "c",
+                "label": "Make the complete project plan to commit date, budget and scope to the stakeholders."
+            },
+            {
+                "id": "d",
+                "label": "Gathering, eliciting, and analyzing the requirements that will be inserted into the Product Backlog."
+            },
+            {
+                "id": "e",
+                "label": "There is no such thing as Sprint 0."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 1,
+        "type": 3,
+        "question": "A Development Team selects a set of Product Backlog items for a Sprint Backlog with the intent to get the selected items \"Done\" by the end of the Sprint. Which three phrases best describe the purpose of a definition of \"Done\"?",
+        "answers": [
+            {
+                "id": "a"
+            },
+            {
+                "id": "b"
+            },
+            {
+                "id": "d"
+            }
+        ],
+        "options": [
+            {
+                "id": "a",
+                "label": "It defines what it takes for an Increment to be ready for release."
+            },
+            {
+                "id": "b",
+                "label": "It creates transparency over the work inspected at the Sprint Review."
+            },
+            {
+                "id": "c",
+                "label": "It tracks the percent completeness of a Product Backlog item."
+            },
+            {
+                "id": "d",
+                "label": "It guides the Development Team in creating a forecast at the Sprint Planning."
+            },
+            {
+                "id": "e",
+                "label": "It controls whether the developers have performed their tasks."
+            },
+            {
+                "id": "f",
+                "label": "It provides a template for elements that need to be included in the technical documentation."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 9,
+        "type": 2,
+        "question": "Several Sprints into a project, the Product Owner tells the Scrum Master that a key stakeholder just started using the product. The stakeholder is unhappy with the slow performance. What are two good options for the Scrum Master?",
+        "answers": [
+            {
+                "id": "c"
+            },
+            {
+                "id": "d"
+            }
+        ],
+        "options": [
+            {
+                "id": "a",
+                "label": "Coach the Product Owner on how to talk with the Development Team about this concem."
+            },
+            {
+                "id": "b",
+                "label": "Bring the concern to the testers to improve how the system is tested."
+            },
+            {
+                "id": "c",
+                "label": "Explain to the Product Owner that it's up to the Development Team to decide on acceptable performance standards."
+            },
+            {
+                "id": "d",
+                "label": "Encourage the Product Owner to put performance on the Product Backlog and express the stakeholder's concern to the Development Team."
+            },
+            {
+                "id": "e",
+                "label": "Wait to bring this up until the Sprint Retrospective."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 6,
+        "type": 4,
+        "question": "Who is on the Scrum Team?",
+        "answers": [
+            {
+                "id": "b"
+            },
+            {
+                "id": "a"
+            },
+            {
+                "id": "c"
+            }
+        ],
+        "options": [
+            {
+                "id": "a",
+                "label": "Scrum Master."
+            },
+            {
+                "id": "b",
+                "label": "Product Owner."
+            },
+            {
+                "id": "c",
+                "label": "Development Team."
+            },
+            {
+                "id": "d",
+                "label": "Project Manager."
+            },
+            {
+                "id": "e",
+                "label": "None of the above."
+            }
+        ],
+        "feedback": "The Scrum Team consists of the Scrum Master (manages the process), the Product Owner (decides what to do) and the Development Team (does the work)."
+    },
+    {
+        "source": "scrum exam",
+        "category": 6,
+        "type": 1,
+        "question": "Who owns the Sprint Backlog?",
+        "answers": {
+            "id": "d"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "The Scrum Master."
+            },
+            {
+                "id": "b",
+                "label": "The Scrum Team."
+            },
+            {
+                "id": "c",
+                "label": "The Product Owner."
+            },
+            {
+                "id": "d",
+                "label": "The Development Team."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 10,
+        "type": 2,
+        "question": "Which are properties of the Daily Scrum?",
+        "answers": [
+            {
+                "id": "b"
+            },
+            {
+                "id": "d"
+            }
+        ],
+        "options": [
+            {
+                "id": "a",
+                "label": "It is facilitated by the team lead."
+            },
+            {
+                "id": "b",
+                "label": "It is fifteen minutes or less in duration."
+            },
+            {
+                "id": "c",
+                "label": "It is held first thing in the morning."
+            },
+            {
+                "id": "d",
+                "label": "Its location and time remain constant."
+            },
+            {
+                "id": "e",
+                "label": "It is free form and designed to promote conversation."
+            },
+            {
+                "id": "f",
+                "label": "It consists of the Scrum Master asking the Team members the three questions."
+            }
+        ],
+        "feedback": "It is fifteen minutes or less in duration. Its location and time remain constant."
+    },
+    {
+        "source": "scrum exam",
+        "category": 0,
+        "type": 3,
+        "question": "What are three ways Scrum promotes self-organization?",
+        "answers": [
+            {
+                "id": "a"
+            },
+            {
+                "id": "b"
+            },
+            {
+                "id": "c"
+            }
+        ],
+        "options": [
+            {
+                "id": "a",
+                "label": "By removing titles for Development Team members."
+            },
+            {
+                "id": "b",
+                "label": "By preventing stakeholders from entering the development room."
+            },
+            {
+                "id": "c",
+                "label": "By the Development Team deciding what work to do in a Sprint."
+            },
+            {
+                "id": "d",
+                "label": "By not allowing documentation."
+            },
+            {
+                "id": "e",
+                "label": "By being a lightweight framework."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 10,
+        "type": 1,
+        "question": "Which of the following services are appropriate for a Scrum Master in regard to the Daily Scrum?",
+        "answers": {
+            "id": "d"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "Lead the discussions of the Development Team."
+            },
+            {
+                "id": "b",
+                "label": "Make sure that all 3 questions have been answered by each member of the team."
+            },
+            {
+                "id": "c",
+                "label": "Keep track of whether each team member has a chance to speak."
+            },
+            {
+                "id": "d",
+                "label": "Teach the Development Team to keep the Daily Scrum within the 15 minute time-box."
+            },
+            {
+                "id": "e",
+                "label": "All of the above."
+            }
+        ],
+        "feedback": "The Scrum Master ensures that the Development Team has the meeting, but the Development Team is responsible for conducting the Daily Scrum. The Scrum Master teaches the Development Team to keep the Daily Scrum within the 15-minute time-box. The Scrum Master enforces the rule that only Development Team members participate in the Daily Scrum."
+    },
+    {
+        "source": "scrum exam",
+        "category": 6,
+        "type": 1,
+        "question": "Who determines how work is performed during the Sprint?",
+        "answers": {
+            "id": "c"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "The Scrum Master."
+            },
+            {
+                "id": "b",
+                "label": "Architects."
+            },
+            {
+                "id": "c",
+                "label": "The Development Team."
+            },
+            {
+                "id": "d",
+                "label": "Subject matter experts."
+            },
+            {
+                "id": "e",
+                "label": "Development Team managers."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 5,
+        "type": 1,
+        "question": "When should a Sprint Goal be created?",
+        "answers": {
+            "id": "e"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "At any time during the Sprint."
+            },
+            {
+                "id": "b",
+                "label": "It should have been created in the previous Sprint during Product Backlog refinement."
+            },
+            {
+                "id": "c",
+                "label": "It must be established before Sprint Planning in order to begin planning."
+            },
+            {
+                "id": "d",
+                "label": "A Sprint Goal is not mandatory in Scrum."
+            },
+            {
+                "id": "e",
+                "label": "During Sprint Planning."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 0,
+        "type": 1,
+        "question": "A Scrum Master is working with a Development Team that has members in different physical locations. The Development Team meets in a variety of meeting rooms and has much to do logistically (for example, set up conference calls) before the Daily Scrum. What action should the Scrum Master take?",
+        "answers": {
+            "id": "b"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "Set up the meeting and tell the Development Team that is how it will be done."
+            },
+            {
+                "id": "b",
+                "label": "Allow the Development Team to self-manage and determine for itself what to do."
+            },
+            {
+                "id": "c",
+                "label": "Ask the Development Team members to alternate who is responsible for meeting setup."
+            },
+            {
+                "id": "d",
+                "label": "Inform management and ask them to solve it."
+            }
+        ],
+        "feedback": "Allow the Development Team to self-manage and determine for itself what to do."
+    },
+    {
+        "source": "scrum exam",
+        "category": 5,
+        "type": 1,
+        "question": "If burndown charts are used to visualize progress, what do they track?",
+        "answers": {
+            "id": "d"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "Accumulated cost."
+            },
+            {
+                "id": "b",
+                "label": "Accumulated business value delivered to the customer."
+            },
+            {
+                "id": "c",
+                "label": "Individual worker productivity."
+            },
+            {
+                "id": "d",
+                "label": "Work remaining across time."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 0,
+        "type": 3,
+        "question": "Which three behaviors demonstrate that a team is self-organizing?",
+        "answers": [
+            {
+                "id": "b"
+            },
+            {
+                "id": "e"
+            },
+            {
+                "id": "f"
+            }
+        ],
+        "options": [
+            {
+                "id": "a",
+                "label": "The Scrum Master is no longer needed."
+            },
+            {
+                "id": "b",
+                "label": "The Development Team creating their own sprint backlog, reflecting all work that is part of the definition of \"Done\"."
+            },
+            {
+                "id": "c",
+                "label": "Stakeholders walking in at the Daily Scrum to check progress and work with the Scrum Master to optimize the functional scope for the Sprint."
+            },
+            {
+                "id": "d",
+                "label": "The Product Owner doesn't need to be at Sprint Retrospectives."
+            },
+            {
+                "id": "e",
+                "label": "The Development Team members are working within the boundaries of their functional description and nicely handing off work from analyst to developer to tester to integration."
+            },
+            {
+                "id": "f",
+                "label": "The Development Team has all the skills needed to create a releasable Increment."
+            },
+            {
+                "id": "g",
+                "label": "The Development Team inviting external people to the Sprint Planning to ask them how to run a Product Backlog item into an increment via a complete and detailed Sprint Backlog."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 4,
+        "type": 1,
+        "question": "What is the recommended size for a Development Team?",
+        "answers": {
+            "id": "c"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "7 plus or minus 3."
+            },
+            {
+                "id": "b",
+                "label": "At least 7."
+            },
+            {
+                "id": "c",
+                "label": "3 to 9."
+            },
+            {
+                "id": "d",
+                "label": "9."
+            }
+        ],
+        "feedback": "Optimal Development Team size is small enough to remain nimble and large enough to complete significant work. Fewer than three Development Team members decreases interaction and results in smaller productivity gains. More than nine members simply requires too much coordination."
+    },
+    {
+        "source": "scrum exam",
+        "category": 5,
+        "type": 1,
+        "question": "Which output from Sprint Planning provides the Development Team with a target and overarching direction for the Sprint?",
+        "answers": {
+            "id": "a"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "The Sprint Goal."
+            },
+            {
+                "id": "b",
+                "label": "The release plan."
+            },
+            {
+                "id": "c",
+                "label": "The Sprint Backlog."
+            },
+            {
+                "id": "d",
+                "label": "Sprint reviews minutes."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 3,
+        "type": 1,
+        "question": "For the purpose of transparency, when does Scrum say a new increment of working software must be available?",
+        "answers": {
+            "id": "a"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "At the end of every Sprint."
+            },
+            {
+                "id": "b",
+                "label": "When the Product Owner asks to create one."
+            },
+            {
+                "id": "c",
+                "label": "Before the release Sprint."
+            },
+            {
+                "id": "d",
+                "label": "After the acceptance testing phase."
+            },
+            {
+                "id": "e",
+                "label": "Every 3 Sprints."
+            }
+        ],
+        "feedback": "The product increment should be useable and releasable at the end of every Sprint, but it does not have to be released."
+    },
+    {
+        "source": "scrum exam",
+        "category": 7,
+        "type": 1,
+        "question": "How should Product Backlog items be chosen when multiple Scrum Teams work from the same Product Backlog?",
+        "answers": {
+            "id": "c"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "The Scrum Team with the highest velocity pulls Product Backlog items first."
+            },
+            {
+                "id": "b",
+                "label": "Each Scrum Team takes an equal number of items."
+            },
+            {
+                "id": "c",
+                "label": "The Development Teams pull in work in agreement with the Product Owner."
+            },
+            {
+                "id": "d",
+                "label": "The Product Owner decides."
+            },
+            {
+                "id": "e",
+                "label": "The Product Owner should provide each team with its own Product Backlog."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 3,
+        "type": 2,
+        "question": "Select two ways in which technical debt impacts transparency.",
+        "answers": [
+            {
+                "id": "a"
+            },
+            {
+                "id": "c"
+            }
+        ],
+        "options": [
+            {
+                "id": "a",
+                "label": "As development progresses and code is added, the system becomes more difficult to stabilize, which result in future work being slowed down in unpredictable ways."
+            },
+            {
+                "id": "b",
+                "label": "It enhances transparency for the Product Owner as a Development Team is not allowed to do additional feature development in a Sprint as long as there is technical debt."
+            },
+            {
+                "id": "c",
+                "label": "It leads to false assumptions about the current state of the system, specifically of an Increment being releasable at the end of a Sprint."
+            },
+            {
+                "id": "d",
+                "label": "When calculated and estimated, the total amount of technical debt shows exactly how long until the Product Owner can release the Increment."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 5,
+        "type": 1,
+        "question": "Why does a Development Team need a Sprint Goal?",
+        "answers": {
+            "id": "d"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "A Sprint Goal only gives purpose to Sprint 0."
+            },
+            {
+                "id": "b",
+                "label": "Sprint Goals are not valuable. Everything is kn,own from the Product Backlog."
+            },
+            {
+                "id": "c",
+                "label": "A Sprint Goal ensures that all of the Product Backlog items selected for the Sprint are implemented."
+            },
+            {
+                "id": "d",
+                "label": "The Development Team is more focused with a common yet specific goal."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 14,
+        "type": 2,
+        "question": "As the Sprint Planning meeting progresses, the Development Team sees that the workload is greater than they can handle. Which two are valid actions?",
+        "answers": [
+            {
+                "id": "b"
+            },
+            {
+                "id": "c"
+            }
+        ],
+        "options": [
+            {
+                "id": "a",
+                "label": "The Development Team works overtime during this Sprint."
+            },
+            {
+                "id": "b",
+                "label": "The Development Team ensures that the Product Owner is aware, starts the Sprint, and monitors progress."
+            },
+            {
+                "id": "c",
+                "label": "Remove or change selected Product Backlog items."
+            },
+            {
+                "id": "d",
+                "label": "Cancel the Sprint."
+            },
+            {
+                "id": "e",
+                "label": "Recruit additional Development Team members before the work can begin."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 0,
+        "type": 1,
+        "question": "Every Development Team should have:",
+        "answers": {
+            "id": "b"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "One Lead Developer and no more than 8 other members."
+            },
+            {
+                "id": "b",
+                "label": "The completeness and skills needed to deliver a Done Increment in a Sprint."
+            },
+            {
+                "id": "c",
+                "label": "At least one representative from each major software engineering discipline (like QA, Dev, UX)."
+            }
+        ],
+        "feedback": "The Development Team consists of professionals who do the work of delivering a potentially releasable Increment of \"Done\" product at the end of each Sprint. Development Teams are cross-functional, with all of the skills as a team necessary to create a product Increment."
+    },
+    {
+        "source": "scrum exam",
+        "category": 10,
+        "type": 1,
+        "question": "Why should the Product Owner be present at the Daily Scrum?",
+        "answers": {
+            "id": "c"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "To hear about impediment in functionality."
+            },
+            {
+                "id": "b",
+                "label": "To participate as a Scrum Team member."
+            },
+            {
+                "id": "c",
+                "label": "He/She doesn't need to be there."
+            },
+            {
+                "id": "d",
+                "label": "To represent ther stakeholders' point of view."
+            }
+        ],
+        "feedback": "Only the people doing the work described on the Sprint Backlog need to inspect and adapt at the Daily Scrum. If the Scrum Master or Product Owner is also on the Development Team, they will need to be at the Daily Scrum."
+    },
+    {
+        "source": "scrum exam",
+        "category": 0,
+        "type": 1,
+        "question": "Who should make sure everyone on the Development Team does his or her tasks for the Sprint?",
+        "answers": {
+            "id": "d"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "The Project Manager."
+            },
+            {
+                "id": "b",
+                "label": "The Product Owner."
+            },
+            {
+                "id": "c",
+                "label": "The Scrum Master."
+            },
+            {
+                "id": "d",
+                "label": "The Development Team."
+            },
+            {
+                "id": "e",
+                "label": "All of the above."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 5,
+        "type": 1,
+        "question": "Which best describes the Product Backlog?",
+        "answers": {
+            "id": "c"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "It contains all forseeable tasks and requirements from which the Scrum team can develop and maintain a complete project plan."
+            },
+            {
+                "id": "b",
+                "label": "It provides just enough information to enable a Scrum team to start the design phase of a product."
+            },
+            {
+                "id": "c",
+                "label": "It is allowed to grow and change as more is learned about the product and its customers."
+            },
+            {
+                "id": "d",
+                "label": "It is baselined to follow change management processes."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 6,
+        "type": 0,
+        "question": "Scrum has a role called \"Project Manager\".",
+        "answers": {
+            "id": "b"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "True"
+            },
+            {
+                "id": "b",
+                "label": "False"
+            }
+        ],
+        "feedback": "A Scrum Team has a Scrum Master, a Product Owner and a Development Team. As a whole they have all controls needed."
+    },
+    {
+        "source": "scrum exam",
+        "category": 5,
+        "type": 1,
+        "question": "If burndown charts are used to visualize progress, what does a trend line through a release burndown chart indicate?",
+        "answers": {
+            "id": "c"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "The evolution of the cost spent on the project."
+            },
+            {
+                "id": "b",
+                "label": "When the project will be over if the Product Owner removes work that is equal in effort to any new work that is added."
+            },
+            {
+                "id": "c",
+                "label": "When the work remaining will likely be completed if nothing changes on the Product Backlog or the Development Team."
+            },
+            {
+                "id": "d",
+                "label": "When all work will be completed so the Scrum Team can be released for other work."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 0,
+        "type": 1,
+        "question": "How often should Development Team membership change?",
+        "answers": {
+            "id": "c"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "Never, because it reduces productivity."
+            },
+            {
+                "id": "b",
+                "label": "Every Sprint to promote shared learning."
+            },
+            {
+                "id": "c",
+                "label": "As needed, while taking into account a short term reduction in productivity."
+            },
+            {
+                "id": "d",
+                "label": "As needed, with no special allowance for changes in productivity."
+            }
+        ],
+        "feedback": "Teams typically go through some steps before achieving a state of increased performance. Changing membership typically reduces cohesion, affecting performance and productivity in the short term."
+    },
+    {
+        "source": "scrum exam",
+        "category": 0,
+        "type": 1,
+        "question": "What is the tactic a Scrum Master should use to divide a group of 100 people into multiple Development Teams?",
+        "answers": {
+            "id": "b"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "Ask the developers to divide themselves into teams."
+            },
+            {
+                "id": "b",
+                "label": "Create teams based on their skills across multiple layers (such as database, UI, etc.)"
+            },
+            {
+                "id": "c",
+                "label": "Ask the Product Owner to assign the people to teams."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 7,
+        "type": 2,
+        "question": "At the end of a Sprint a Product Backlog item worked on during the Sprint does not meet the definition of \"Done\". What two things should happen with the undone Product Backlog item?",
+        "answers": [
+            {
+                "id": "a"
+            },
+            {
+                "id": "d"
+            }
+        ],
+        "options": [
+            {
+                "id": "a",
+                "label": "Do not include the item in the Increment this Sprint."
+            },
+            {
+                "id": "b",
+                "label": "Review the item, add the \"Done\" part of the estimate to the velocity and create a Story for the remaining work."
+            },
+            {
+                "id": "c",
+                "label": "If the stakeholders agree, the Product Owner can accept it and release it to the users."
+            },
+            {
+                "id": "d",
+                "label": "Put it on the Product Backlog for the Product Owner to decide what to do with it."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 6,
+        "type": 1,
+        "question": "Who can abnormally terminate a Sprint?",
+        "answers": {
+            "id": "b"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "The Development Team or its members."
+            },
+            {
+                "id": "b",
+                "label": "The Product Owner."
+            },
+            {
+                "id": "c",
+                "label": "The Scrum Master."
+            },
+            {
+                "id": "d",
+                "label": "The Stackeholders."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 5,
+        "type": 1,
+        "question": "Who determines when it is appropriate to update the Sprint Backlog during a Sprint?",
+        "answers": {
+            "id": "a"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "The Development Team."
+            },
+            {
+                "id": "b",
+                "label": "The Scrum Team."
+            },
+            {
+                "id": "c",
+                "label": "The Project Manager."
+            },
+            {
+                "id": "d",
+                "label": "The Product Owner."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 2,
+        "type": 1,
+        "question": "You are the Scrum Master of a new, to be developed product. Development is going to require 45 people. What is a good first question for you to suggest the group thinks about when forming into teams?",
+        "answers": {
+            "id": "b"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "What is the right mixture of senior and junior people on each team?"
+            },
+            {
+                "id": "b",
+                "label": "How will we make sure all teams have the right amount of expertise?"
+            },
+            {
+                "id": "c",
+                "label": "Who are going to be the team leads?"
+            },
+            {
+                "id": "d",
+                "label": "Who are the subject matter experts on each team?"
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 10,
+        "type": 1,
+        "question": "Who must attend the Daily Scrum?",
+        "answers": {
+            "id": "c"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "The Scrum Master and Product Owner."
+            },
+            {
+                "id": "b",
+                "label": "The Scrum team."
+            },
+            {
+                "id": "c",
+                "label": "The Development Team."
+            },
+            {
+                "id": "d",
+                "label": "The Development Team and Scrum Master."
+            },
+            {
+                "id": "e",
+                "label": "The Development Team and Product Owner."
+            }
+        ],
+        "feedback": "Only the people doing the work described on the Sprint Backlog need to inspect and adapt at the Daily Scrum. If the Scrum Master or Product Owner is also on the Development Team, they will need to be at the Daily Scrum."
+    },
+    {
+        "source": "scrum exam",
+        "category": 7,
+        "type": 1,
+        "question": "How much work must a Development Team do to a Product Backlog item it selects for a Sprint?",
+        "answers": {
+            "id": "a"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "As much as it has told the Product Owner will be done for every Product Backlog item it selects in conformance with the definition of \"Done\"."
+            },
+            {
+                "id": "b",
+                "label": "A proportional amount of time on analysis, design, programming, testing and documentation."
+            },
+            {
+                "id": "c",
+                "label": "All development work and at least some testing."
+            },
+            {
+                "id": "d",
+                "label": "As much as it can fit into the Sprint. Any remaining work will be transfered to a subsequent Sprint."
+            }
+        ],
+        "feedback": "The purpose of each Sprint is to deliver Increments of potentially releasable functionality that adhere to the Scrum Team’s current definition of \"Done\"."
+    },
+    {
+        "source": "scrum exam",
+        "category": 7,
+        "type": 1,
+        "question": "What is the key concern when multiple Development Teams are working from the same Product Backlog?",
+        "answers": {
+            "id": "a"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "Minimizing dependencies between teams."
+            },
+            {
+                "id": "b",
+                "label": "Making sure there's enough work for everyone on every team."
+            },
+            {
+                "id": "c",
+                "label": "Meeting original scope projections."
+            },
+            {
+                "id": "d",
+                "label": "Maximizing velocity."
+            },
+            {
+                "id": "e",
+                "label": "Clear definition of requirements."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 2,
+        "type": 2,
+        "question": "Which two things are appropriate for a Scrum Master to do if the Development Team doesn't have the engineering tools and infrastructure to completely finish each selected Product Backlog item?",
+        "answers": [
+            {
+                "id": "b"
+            },
+            {
+                "id": "c"
+            }
+        ],
+        "options": [
+            {
+                "id": "a",
+                "label": "Encourage the Product Owner to accept partially \"Done\" increments until the situation improves."
+            },
+            {
+                "id": "b",
+                "label": "Coach the Development Team to improve its skills, tools and infrastructure over time and adjust the Definition of \"Done\" accordingly."
+            },
+            {
+                "id": "c",
+                "label": "Have the Development Team establish a Definition of \"Done\" that is actually possible to achieve given current circumstances."
+            },
+            {
+                "id": "d",
+                "label": "Declare the Development Team not ready for Scrum."
+            },
+            {
+                "id": "e",
+                "label": "Refocus the current Sprint on establishing the Development Team's infrastructure instead of delivering an Increment."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 12,
+        "type": 1,
+        "question": "As the Development Team starts work during the Sprint, it realizes it has selected too much work to finish in the Sprint. What should it do?",
+        "answers": {
+            "id": "a"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "As soon as possible in the Sprint, work with the Product Owner to remove some work or Product Backlog items."
+            },
+            {
+                "id": "b",
+                "label": "Find another Scrum Team to give the excess work to."
+            },
+            {
+                "id": "c",
+                "label": "Reduce the definiton of \"Done\" and get all of Product Backlog items \"Done\" by the new definition."
+            },
+            {
+                "id": "d",
+                "label": "Inform the Product Owner at the Sprint Review, but prior to the demonstration."
+            }
+        ],
+        "feedback": "During the Sprint, scope may be clarified and re-negotiated between the Product Owner and Development Team as more is learned."
+    },
+    {
+        "source": "scrum exam",
+        "category": 5,
+        "type": 1,
+        "question": "During a Sprint, when is new work or further decomposition of work added to the Sprint Backlog?",
+        "answers": {
+            "id": "c"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "When ther Scrum master has time to enter them."
+            },
+            {
+                "id": "b",
+                "label": "During the Daily Scrum after the Development Team approves them."
+            },
+            {
+                "id": "c",
+                "label": "As soon as possible after they are identified."
+            },
+            {
+                "id": "d",
+                "label": "When the Product Owner identifies new work."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 6,
+        "type": 1,
+        "question": "For which is the Scrum Master responsible?",
+        "answers": {
+            "id": "d"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "The meetings and the objectives that a Scrum Team sets for itself."
+            },
+            {
+                "id": "b",
+                "label": "Managing the performance of the Scrum Team."
+            },
+            {
+                "id": "c",
+                "label": "Keeping track of resource allocation."
+            },
+            {
+                "id": "d",
+                "label": "The Scrum framework being adopted and used properly."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 14,
+        "type": 1,
+        "question": "The Product Owner must release each Increment to production.",
+        "answers": {
+            "id": "c"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "Without exception."
+            },
+            {
+                "id": "b",
+                "label": "Whenever the product is free of defects."
+            },
+            {
+                "id": "c",
+                "label": "When it makes sense."
+            },
+            {
+                "id": "d",
+                "label": "To make sure the Development Team is done every Sprint."
+            }
+        ],
+        "feedback": "The product increment should be useable and releasable at the end of every Sprint, but it does not have to be released."
+    },
+    {
+        "source": "scrum exam",
+        "category": 7,
+        "type": 0,
+        "question": "Multiple Scrum Teams working on the same product or system all select work from the same Product Backlog.",
+        "answers": {
+            "id": "a"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "True"
+            },
+            {
+                "id": "b",
+                "label": "False"
+            }
+        ],
+        "feedback": "Products have one Product Backlog, regardless of how many teams are used. Any other setup makes it difficult for the Development Team to determine what it should work on."
+    },
+    {
+        "source": "scrum exam",
+        "category": 12,
+        "type": 1,
+        "question": "A member of the Development Team takes the Scrum Master aside to express his concerns about data security issues. What should the Scrum Master do?",
+        "answers": {
+            "id": "d"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "Tell the Product Owner to stop further development of features until the issues are fixed."
+            },
+            {
+                "id": "b",
+                "label": "Add security to the definition of \"Done\"."
+            },
+            {
+                "id": "c",
+                "label": "Go check with the testers."
+            },
+            {
+                "id": "d",
+                "label": "Ask the person to share the issue with the team as soon as possible."
+            },
+            {
+                "id": "e",
+                "label": "Create a Product Backlog item for security."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 10,
+        "type": 1,
+        "question": "Which of the following might the Scrum Team discuss during a Sprint Retrospective?",
+        "answers": {
+            "id": "e"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "Methods of communication."
+            },
+            {
+                "id": "b",
+                "label": "The way the Scrum Team does Sprint Planning."
+            },
+            {
+                "id": "c",
+                "label": "Skills needed to improve the Development Team's ability to deliver."
+            },
+            {
+                "id": "d",
+                "label": "Its Definition of \"Done\"."
+            },
+            {
+                "id": "e",
+                "label": "All of the above."
+            }
+        ],
+        "feedback": "The purpose of the Sprint Retrospective is to: Inspect how the last Sprint went with regards to people, relationships, process, and tools;\nIdentify and order the major items that went well and potential improvements; and, Create a plan for implementing improvements to the way the Scrum Team does its work."
+    },
+    {
+        "source": "scrum exam",
+        "category": 10,
+        "type": 2,
+        "question": "Which of the following are true about the length of the Sprint?",
+        "answers": [
+            {
+                "id": "a"
+            },
+            {
+                "id": "d"
+            }
+        ],
+        "options": [
+            {
+                "id": "a",
+                "label": "All Sprints must be 1 month or less."
+            },
+            {
+                "id": "b",
+                "label": "The length of the Sprint should be proportional to the work that is done in between Sprints."
+            },
+            {
+                "id": "c",
+                "label": "Sprint length is determined during Sprint Planning, and should hold the time it will take to code the planned features in the upcommming Sprint, but does not include time for any testing."
+            },
+            {
+                "id": "d",
+                "label": "It is best to have Sprints of consistent length throughout a development effort."
+            }
+        ],
+        "feedback": "The heart of Scrum is a Sprint, a time-box of one month or less during which a \"Done\", useable, and potentially releasable product Increment is created. Sprints have consistent durations throughout a development effort."
+    },
+    {
+        "source": "scrum exam",
+        "category": 10,
+        "type": 1,
+        "question": "During a Sprint Retrospective, for what is the Scrum Master responsible?",
+        "answers": {
+            "id": "d"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "Summarizing and reporting the discussions to management."
+            },
+            {
+                "id": "b",
+                "label": "Prioritizing the resulting actions items."
+            },
+            {
+                "id": "c",
+                "label": "Acting as a scribe to capture the Development Team's answers."
+            },
+            {
+                "id": "d",
+                "label": "Participating as a Scrum Team member and facilitating as requested or needed."
+            }
+        ],
+        "feedback": "The Scrum Master participates as a peer team member in the meeting from the accountability over the Scrum process."
+    },
+    {
+        "source": "scrum exam",
+        "category": 12,
+        "type": 1,
+        "question": "What happens if the Development Team cannot complete its work by the end of the Sprint?",
+        "answers": {
+            "id": "a"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "The Sprint length holds and the Development Team continuously learns what is actually possible to do within a Sprint of this length."
+            },
+            {
+                "id": "b",
+                "label": "The Sprint is extended and the future Sprints use this new duration."
+            },
+            {
+                "id": "c",
+                "label": "The Sprint is extended temporarily. Lessons are taken to ensure it doesn't happen again."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 10,
+        "type": 2,
+        "question": "Which are NOT appropriate topics for discussion in a Sprint Retrospective?",
+        "answers": [
+            {
+                "id": "c"
+            },
+            {
+                "id": "d"
+            }
+        ],
+        "options": [
+            {
+                "id": "a",
+                "label": "Team relations."
+            },
+            {
+                "id": "b",
+                "label": "How the Team does its work."
+            },
+            {
+                "id": "c",
+                "label": "Sprint Backlog for the next Sprint."
+            },
+            {
+                "id": "d",
+                "label": "The value of work currently represented in the Product Backlog."
+            },
+            {
+                "id": "e",
+                "label": "Definition of \"Done\"."
+            }
+        ],
+        "feedback": "The purpose of the Sprint Retrospective is to: Inspect how the last Sprint went with regards to people, relationships, process, and tools;\nIdentify and order the major items that went well and potential improvements; and, Create a plan for implementing improvements to the way the Scrum Team does its work."
+    },
+    {
+        "source": "scrum exam",
+        "category": 0,
+        "type": 1,
+        "question": "When many Scrum Teams are working on the same product, should all of their increments be integrated every Sprint?",
+        "answers": {
+            "id": "b"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "No, that is far too hard and must be done in a hardening Sprint."
+            },
+            {
+                "id": "b",
+                "label": "Yes, otherwise the Product Owners (and stakeholders) may not be able to acurately inspect what is done."
+            },
+            {
+                "id": "c",
+                "label": "No, each Scrum Team stands alone."
+            },
+            {
+                "id": "d",
+                "label": "Yes, but only for Scrum Teams whose work has dependencies."
+            }
+        ],
+        "feedback": "The Nexus Sprint Review is held at the end of the Sprint to provide feedback on the Integrated Increment that a Nexus has built over the Sprint. All individual Scrum Teams meet with stakeholders to review the Integrated Increment."
+    },
+    {
+        "source": "scrum exam",
+        "category": 3,
+        "type": 3,
+        "question": "Which Scrum Values are exhibited by not building Product Backlog items that have low business value?",
+        "answers": [
+            {
+                "id": "a"
+            },
+            {
+                "id": "d"
+            },
+            {
+                "id": "e"
+            }
+        ],
+        "options": [
+            {
+                "id": "a",
+                "label": "Courage."
+            },
+            {
+                "id": "b",
+                "label": "Economic Value Added."
+            },
+            {
+                "id": "c",
+                "label": "Earned Value."
+            },
+            {
+                "id": "d",
+                "label": "Respect."
+            },
+            {
+                "id": "e",
+                "label": "Focus."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 6,
+        "type": 3,
+        "question": "Which of the following are true about the Product Owner role?",
+        "answers": [
+            {
+                "id": "b"
+            },
+            {
+                "id": "c"
+            },
+            {
+                "id": "d"
+            }
+        ],
+        "options": [
+            {
+                "id": "a",
+                "label": "The Product Owner role can be played by a committee or a team of people."
+            },
+            {
+                "id": "b",
+                "label": "The Product Owner is accountable for ordering the Product Backlog."
+            },
+            {
+                "id": "c",
+                "label": "The Product Owner is one person."
+            },
+            {
+                "id": "d",
+                "label": "The Product Owner can be influenced by a committee."
+            },
+            {
+                "id": "e",
+                "label": "Multiple people can share the Product Owner role on a Scrum Team."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 10,
+        "type": 3,
+        "question": "Which three of the following are time-boxed events in Scrum?",
+        "answers": [
+            {
+                "id": "d"
+            },
+            {
+                "id": "e"
+            },
+            {
+                "id": "g"
+            }
+        ],
+        "options": [
+            {
+                "id": "a",
+                "label": "Realease Testing."
+            },
+            {
+                "id": "b",
+                "label": "Sprint 0."
+            },
+            {
+                "id": "c",
+                "label": "Release Retrospective."
+            },
+            {
+                "id": "d",
+                "label": "Sprint Retrospective."
+            },
+            {
+                "id": "e",
+                "label": "Sprint Planning."
+            },
+            {
+                "id": "f",
+                "label": "Sprint Testing."
+            },
+            {
+                "id": "g",
+                "label": "Daily Scrum."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 10,
+        "type": 2,
+        "question": "Which two things should the Development Team do during the first Sprint?",
+        "answers": [
+            {
+                "id": "c"
+            },
+            {
+                "id": "e"
+            }
+        ],
+        "options": [
+            {
+                "id": "a",
+                "label": "Analyse, describe, and document the requirements for the subsequent Sprints."
+            },
+            {
+                "id": "b",
+                "label": "Analyse, design, and describe the complete architecture and infrastructure."
+            },
+            {
+                "id": "c",
+                "label": "Develop at least one piece of functionality."
+            },
+            {
+                "id": "d",
+                "label": "Make up a plan for the rest of the project."
+            },
+            {
+                "id": "e",
+                "label": "Create an increment of potentially releasable software."
+            }
+        ],
+        "feedback": "The heart of Scrum is a Sprint, a time-box of one month or less during which a \"Done\", useable, and potentially releasable product Increment is created. This applies to every Sprint."
+    },
+    {
+        "source": "scrum exam",
+        "category": 0,
+        "type": 1,
+        "question": "What is the best suited structure for Development Teams in order to produce integrated Increments?",
+        "answers": {
+            "id": "b"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "Each Development Team works only on one technical layer of the system (e.g. GUI, database, middle tier, interfaces)."
+            },
+            {
+                "id": "b",
+                "label": "Each Development Team develops functionality from beginning to end throughout all technical layers."
+            }
+        ],
+        "feedback": "The people on the teams have knowledge of various business and computer systems. Their knowledge should be distributed across the Scrum Teams to ensure that the teams have the knowledge they need to do their work, to minimize interruptions between Scrum Teams during a Sprint."
+    },
+    {
+        "source": "scrum exam",
+        "category": 2,
+        "type": 3,
+        "question": "What three techniques should the Scrum Master use when the Scrum Team gets caught in an internal disagreement about which development techniques to apply?",
+        "answers": [
+            {
+                "id": "a"
+            },
+            {
+                "id": "b"
+            },
+            {
+                "id": "e"
+            }
+        ],
+        "options": [
+            {
+                "id": "a",
+                "label": "Consult with team members individually, carefully listening."
+            },
+            {
+                "id": "b",
+                "label": "Involve the complete team."
+            },
+            {
+                "id": "c",
+                "label": "Ask an external technical specialist to make the decision."
+            },
+            {
+                "id": "d",
+                "label": "Send every team member to the company's HR department to express their concerns."
+            },
+            {
+                "id": "e",
+                "label": "Use coaching techniques like open questions and active listening."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 3,
+        "type": 1,
+        "question": "Which statement best describes Scrum?",
+        "answers": {
+            "id": "b"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "A cookbook that defines best practices for software development."
+            },
+            {
+                "id": "b",
+                "label": "A framework within which complex products in complex environments are developed."
+            },
+            {
+                "id": "c",
+                "label": "A complete methodology that defines how to develop software."
+            },
+            {
+                "id": "d",
+                "label": "A defined and predictive process that conforms to the principles of Scientific Management."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 1,
+        "type": 1,
+        "question": "When is it most appropriate for a Development Team to change the definition of \"Done\"?",
+        "answers": {
+            "id": "c"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "Prior to starting a new Sprint."
+            },
+            {
+                "id": "b",
+                "label": "Prior to starting a new project."
+            },
+            {
+                "id": "c",
+                "label": "During the Sprint Retrospective."
+            },
+            {
+                "id": "d",
+                "label": "During Sprint Planning."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 6,
+        "type": 2,
+        "question": "Which two activities will a Product Owner engage in during a Sprint?",
+        "answers": [
+            {
+                "id": "b"
+            },
+            {
+                "id": "d"
+            }
+        ],
+        "options": [
+            {
+                "id": "a",
+                "label": "Work with the stakeholders."
+            },
+            {
+                "id": "b",
+                "label": "Answers questions from the Development Team about items in the current Sprint."
+            },
+            {
+                "id": "c",
+                "label": "Run the Daily Scrum."
+            },
+            {
+                "id": "d",
+                "label": "Update the Sprint burndown chart."
+            },
+            {
+                "id": "e",
+                "label": "Prioritize the Development Team's work on the Sprint Backlog."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 12,
+        "type": 1,
+        "question": "When a Development Team is having trouble delivering a working Increment because they don't understand a functional requirement, what should they do?",
+        "answers": {
+            "id": "c"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "Add a specialist to the Development Team."
+            },
+            {
+                "id": "b",
+                "label": "Defer the work to a more appropriate Sprint."
+            },
+            {
+                "id": "c",
+                "label": "Collaborate with the Product Owner to determine what is possible and acceptable."
+            },
+            {
+                "id": "d",
+                "label": "Partially complete the functionality, and discuss the remaining work at trhe Sprint Review."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 10,
+        "type": 1,
+        "question": "A Sprint Retrospective should be held:",
+        "answers": {
+            "id": "b"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "At the beginning of each Sprint."
+            },
+            {
+                "id": "b",
+                "label": "At the end of each Sprint."
+            },
+            {
+                "id": "c",
+                "label": "At the end of the last Sprint in a project or a release."
+            },
+            {
+                "id": "d",
+                "label": "Only when the Scrum Team determines it needs one."
+            }
+        ],
+        "feedback": "The Sprint Retrospective occurs after the Sprint Review and prior to the next Sprint Planning."
+    },
+    {
+        "source": "scrum exam",
+        "category": 10,
+        "type": 1,
+        "question": "Which topics should be discussed in the Sprint Review?",
+        "answers": {
+            "id": "c"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "The Scrum process, and how it was used during the Sprint."
+            },
+            {
+                "id": "b",
+                "label": "Coding and engineering practices."
+            },
+            {
+                "id": "c",
+                "label": "Sprint results."
+            },
+            {
+                "id": "d",
+                "label": "All of the above."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 0,
+        "type": 1,
+        "question": "Which does a self-organizing Development Team choose?",
+        "answers": {
+            "id": "b"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "Stakeholders for the Sprint Review."
+            },
+            {
+                "id": "b",
+                "label": "How to best accomplish its work."
+            },
+            {
+                "id": "c",
+                "label": "Product Backlog ordering."
+            },
+            {
+                "id": "d",
+                "label": "When to release, based on its progress."
+            },
+            {
+                "id": "e",
+                "label": "Sprint length."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 2,
+        "type": 2,
+        "question": "The Product Owner is not collaborating with the Development Team during the Sprint. What are two valuable actions for a Scrum Master to take?",
+        "answers": [
+            {
+                "id": "c"
+            },
+            {
+                "id": "d"
+            }
+        ],
+        "options": [
+            {
+                "id": "a",
+                "label": "Nominate a proxy Product Owner."
+            },
+            {
+                "id": "b",
+                "label": "Inform the Product Owner's functional manager."
+            },
+            {
+                "id": "c",
+                "label": "Bring up the problem in the Sprint Retrospective."
+            },
+            {
+                "id": "d",
+                "label": "Coach the Product Owner in the values of Scrum and incremental delivery."
+            },
+            {
+                "id": "e",
+                "label": "Stop the Sprint, send the Product Owner to a course and restart."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 2,
+        "type": 3,
+        "question": "You are the Scrum Master on a newly formed Scrum Team. Which three of the following activities would probably help the team in starting up?",
+        "answers": [
+            {
+                "id": "b"
+            },
+            {
+                "id": "d"
+            },
+            {
+                "id": "f"
+            }
+        ],
+        "options": [
+            {
+                "id": "a",
+                "label": "Introduce a bonus system for the top performerrs in the team."
+            },
+            {
+                "id": "b",
+                "label": "Have the Scrum Team members introduce themselves to each other and give a brief background of their skills and work history."
+            },
+            {
+                "id": "c",
+                "label": "Have the development managers for each Development Team introduce their direct reports and go over their responsibilities on the Scrum Team."
+            },
+            {
+                "id": "d",
+                "label": "Ask the Product Owner to discuss the product or project, its history, goals, and context, as well as answer questions."
+            },
+            {
+                "id": "e",
+                "label": "Ensure the Scrum Team members have compatibles personalities."
+            },
+            {
+                "id": "f",
+                "label": "Ensure the team understands they need a definition of \"Done\"."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 1,
+        "type": 3,
+        "question": "Which three purposes does the definition of \"Done\" serve?",
+        "answers": [
+            {
+                "id": "b"
+            },
+            {
+                "id": "d"
+            },
+            {
+                "id": "a"
+            }
+        ],
+        "options": [
+            {
+                "id": "a",
+                "label": "Guide the Development team on how many Product Backlog items to select for the Sprint."
+            },
+            {
+                "id": "b",
+                "label": "Increase transparency."
+            },
+            {
+                "id": "c",
+                "label": "Describe the purpose, objective, and time-box of each Scrum event."
+            },
+            {
+                "id": "d",
+                "label": "Create a shared understanding of when work is complete."
+            },
+            {
+                "id": "e",
+                "label": "Describe the work that must be done before the Sprint is allowed to end."
+            }
+        ],
+        "feedback": "When a Product Backlog item or an Increment is described as \"Done\", everyone must understand what \"Done\" means. Although this may vary significantly per Scrum Team, members must have a shared understanding of what it means for work to be complete, to ensure transparency. The same definition guides the Development Team in knowing how many Product Backlog items it can select during a Sprint Planning."
+    },
+    {
+        "source": "scrum exam",
+        "category": 3,
+        "type": 4,
+        "question": "Which of the following is required by Scrum?",
+        "answers": [
+            {
+                "id": "a"
+            },
+            {
+                "id": "c"
+            }
+        ],
+        "options": [
+            {
+                "id": "a",
+                "label": "Sprint retrospective."
+            },
+            {
+                "id": "b",
+                "label": "Members must stand up at the Daily Scrum."
+            },
+            {
+                "id": "c",
+                "label": "Sprint Burndown chart."
+            },
+            {
+                "id": "d",
+                "label": "Release Planning."
+            },
+            {
+                "id": "e",
+                "label": "All of the above."
+            }
+        ],
+        "feedback": "Scrum’s roles, events, artifacts, and rules are immutable and although implementing only parts of Scrum is possible, the result is not Scrum."
+    },
+    {
+        "source": "scrum exam",
+        "category": 7,
+        "type": 1,
+        "question": "The Product Backlog is ordered by:",
+        "answers": {
+            "id": "b"
+        },
+        "options": [
+            {
+                "id": "a",
+                "label": "Size, where small items are at the top and large items are at the bottom."
+            },
+            {
+                "id": "b",
+                "label": "The Product Owner with the most valuable items placed at the top."
+            },
+            {
+                "id": "c",
+                "label": "Items are randomly arranged."
+            },
+            {
+                "id": "d",
+                "label": "Risk, where safer items are at the top, and riskier items are at the bottom."
+            }
+        ],
+        "feedback": null
+    },
+    {
+        "source": "scrum exam",
+        "category": 6,
+        "type": 2,
+        "question": "Which of the following are true about the Scrum Master role?",
+        "answers": [
+            {
+                "id": "d"
+            },
+            {
+                "id": "c"
+            }
+        ],
+        "options": [
+            {
+                "id": "a",
+                "label": "The Scrum Master is responsible for updating the Sprint Burndown."
+            },
+            {
+                "id": "b",
+                "label": "At the Sprint Review, the Scrum Master identifies what has been \"Done\" and what has not been \"Done\"."
+            },
+            {
+                "id": "c",
+                "label": "The Scrum Master teaches the Development Team to keep the Scrum meeting to their time-box."
+            },
+            {
+                "id": "d",
+                "label": "The Scrum Master helps those outside the team interact with the Scrum Team."
+            },
+            {
+                "id": "e",
+                "label": "The Scrum Master assigns tasks to Development Team members when they need work."
+            }
+        ],
+        "feedback": null
+    }
+]
