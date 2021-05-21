@@ -1,0 +1,259 @@
+[
+    {
+        "source": "unbored",
+        "category": 15,
+        "type": 1,
+        "question": "Which of the following limits work in progress?",
+        "options": [
+            {
+                "id": "a",
+                "label": "Having Sprint Retrospectives"
+            },
+            {
+                "id": "b",
+                "label": "Using timeboxes"
+            },
+            {
+                "id": "c",
+                "label": "Using Product Backlogs"
+            },
+            {
+                "id": "d",
+                "label": "Having Sprint Reviews"
+            }
+        ],
+        "answers": {
+            "id": "d"
+        },
+        "feedback": "When using timeboxes, you have a rather small and relatively clear scope for the timebox, and your goal is to complete as many items as possible. This limits the amount of work you can have in progress."
+    },
+    {
+        "source": "unbored",
+        "category": 7,
+        "type": 1,
+        "question": "At the end of the Sprint, all items are done except for one that is almost done. What should be done with this item?",
+        "options": [
+            {
+                "id": "a",
+                "label": "Move it back to the Product Backlog."
+            },
+            {
+                "id": "b",
+                "label": "Consider the complete part of the item in velocity calculation and then create a new item in the Product Backlog for the remaining work."
+            },
+            {
+                "id": "c",
+                "label": "The Sprint will be extended until we complete the item."
+            },
+            {
+                "id": "d",
+                "label": "It can be added to the Increment if the customer accepts it."
+            }
+        ],
+        "answers": {
+            "id": "a"
+        },
+        "feedback": "b. We consider only the DONE items in velocity calculation. Normally, the same item is returned to the Product Backlog, instead of creating a new item for the remaining work. \nc. Sprints are timeboxed, meaning that we don't extend their duration. \nd. The Increment contains only 100% DONE items."
+    },
+    {
+        "source": "unbored",
+        "category": 15,
+        "type": 1,
+        "question": "Which of the following is required by Scrum?",
+        "options": [
+            {
+                "id": "a",
+                "label": "Pair-Programming"
+            },
+            {
+                "id": "b",
+                "label": "Test-Driven Development"
+            },
+            {
+                "id": "c",
+                "label": "Having full-time developers"
+            },
+            {
+                "id": "d",
+                "label": "Having timeboxed events"
+            }
+        ],
+        "answers": {
+            "id": "d"
+        },
+        "feedback": "Having timeboxed events"
+    },
+    {
+        "source": "unbored",
+        "category": 15,
+        "type": 1,
+        "question": "Which of the following is mandatory in Scrum?",
+        "options": [
+            {
+                "id": "a",
+                "label": "Test-Driven Development"
+            },
+            {
+                "id": "b",
+                "label": "User Stories"
+            },
+            {
+                "id": "c",
+                "label": "Product Owner"
+            },
+            {
+                "id": "d",
+                "label": "Planning Poker"
+            }
+        ],
+        "answers": {
+            "id": "c"
+        },
+        "feedback": "b. You can use any type of item in the Product Backlog, not only user stories. \nd. This is what you can use to estimate the size of items better. It's not mandatory though. \nOnly the roles, events, and artifacts (+ Definition of Done and progress measurement) are mandatory."
+    },
+    {
+        "source": "unbored",
+        "category": 5,
+        "type": 0,
+        "question": "Besides the normal items that are about the features of the product, each Sprint Backlog contains at least one item about improving the way we work.",
+        "options": [
+            {
+                "id": "a",
+                "label": "True"
+            },
+            {
+                "id": "b",
+                "label": "False"
+            }
+        ],
+        "answers": {
+            "id": "a"
+        },
+        "feedback": "This is one of the statements added to the latest update of Scrum Guide: At least one high-priority process improvement item exists in each Sprint Backlog.\nIt was a little unexpected because it's mixing content related to the product with the content related to the process in the Sprint Backlog; but, well, that's how it is now.\nSome of you may be thinking that we can't say there's always such items in Sprint Backlogs because there's no Sprint Retrospective before the first Sprint and therefore no such item in the backlog. This is true, but too detailed. If you see such a question in the exam, simply assume that there's always a process improvement item in the Sprint Backlog. "
+    },
+    {
+        "source": "unbored",
+        "category": 15,
+        "type": 1,
+        "question": "Which of the following may change during the Sprint?",
+        "options": [
+            {
+                "id": "a",
+                "label": "Minimum level of quality"
+            },
+            {
+                "id": "b",
+                "label": "Composition of the team"
+            },
+            {
+                "id": "c",
+                "label": "Sprint Goal"
+            },
+            {
+                "id": "d",
+                "label": "Product Backlog"
+            }
+        ],
+        "answers": {
+            "id": "d"
+        },
+        "feedback": "a. The level of expected quality shouldn't decrease during the Sprint. \nb. The team stays the same during the Sprint. If you need to change it, wait until the beginning of the next Sprint. \nc. The Sprint Goal doesn't change after the Sprint Planning meeting \nd. Product Backlog may change at any time. \nThose that stay fixed during the Sprint are needed to avoid distractions, and create a more productive environment. After all, Sprints are not so long that they create problems."
+    },
+    {
+        "source": "unbored",
+        "category": 1,
+        "type": 0,
+        "question": "There can be multiple Definitions of Done when multiple teams are working on the same product.",
+        "options": [
+            {
+                "id": "a",
+                "label": "True"
+            },
+            {
+                "id": "b",
+                "label": "False"
+            }
+        ],
+        "answers": {
+            "id": "a"
+        },
+        "feedback": "According to Scrum.org, they can have different Definitions of Done, as long as they are compatible with each other and capable of creating integrated Increments. \nNote: it may seem that the Scrum Guide says there's only one Definition of Done for multiple teams, but this is not the case according to Scrum.org. Having this flexibility can help, because, for example, one team may want to have extra tests. There's no harm in that, and yet, it impacts their Definition of Done."
+    },
+    {
+        "source": "unbored",
+        "category": 6,
+        "type": 2,
+        "question": "Which two of the following are correct about the Product Owner role?",
+        "options": [
+            {
+                "id": "a",
+                "label": "Calculates the velocity of the team"
+            },
+            {
+                "id": "b",
+                "label": "Estimates the Product Backlog items"
+            },
+            {
+                "id": "c",
+                "label": "Is responsible for measuring the performance of the project"
+            },
+            {
+                "id": "d",
+                "label": "May add new work to the Sprint Backlog during the Sprint"
+            },
+            {
+                "id": "e",
+                "label": "Orders the Product Backlog items"
+            }
+        ],
+        "answers": [
+            {
+                "id": "c"
+            },
+            {
+                "id": "e"
+            }
+        ],
+        "feedback": "a. Done by the Development Team \nb. Only those who will develop the items (i.e. the Development Team) can estimate the amount of work. When \"estimate\" is used alone, refers to estimating the size or amount of effort required. \nc. Done by the Product Owner \nd. It's mainly about the tasks in the Sprint Backlog. In general, the Development Team owns the Sprint Backlog and makes the changes to it. \ne. Done by the Product Owner"
+    },
+    {
+        "source": "unbored",
+        "category": 0,
+        "type": 0,
+        "question": "When multiple teams are working on the same product, one person can be a member of more than one Development Team.",
+        "options": [
+            {
+                "id": "a",
+                "label": "True"
+            },
+            {
+                "id": "b",
+                "label": "False"
+            }
+        ],
+        "answers": {
+            "id": "a"
+        },
+        "feedback": "None of the Scrum roles are necessarily full-time, and a single person can occupy more than one role or the same role in more than one team; e.g., there may be a special expertise that is needed in multiple teams, but it's not needed in a full-time basis. So, one person can provide that special type of expertise to multiple teams."
+    },
+    {
+        "source": "unbored",
+        "category": 15,
+        "type": 0,
+        "question": "When multiple teams are working on the same product, their Sprints should start and end at the same time.",
+        "options": [
+            {
+                "id": "a",
+                "label": "True"
+            },
+            {
+                "id": "b",
+                "label": "False"
+            }
+        ],
+        "answers": {
+            "id": "b"
+        },
+        "feedback": "It's not mandatory in Scrum.org to start and end the Sprints at the same time. That makes it much more difficult to manage the whole project. It's not mandatory, because you may need it in certain cases: maybe some teams are working on parts of the project that need longer Sprints (four-week), while others need shorter ones (two-week) for shorter feedback loops."
+    }
+]
